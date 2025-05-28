@@ -18,7 +18,7 @@ cd ~/fanuc_ws/src
 
 2. **Clone the repository**
 ```bash
-git clone 
+git clone https://github.com/jeremynguyenn/Fanuc-CRX10ia-L-using-ROS2-Humble-and-MoveIt2.git
 ```
 
 3. **Build the workspace**
@@ -160,7 +160,7 @@ colcon build
 cp -r /path/to/crx_description ~/fanuc_ws/src/
 
 # Option 2: Clone Repository
-git clone 
+git clone https://github.com/jeremynguyenn/Fanuc-CRX10ia-L-using-ROS2-Humble-and-MoveIt2.git
 cd fanuc_ws
 cd src
 cd crx_description
